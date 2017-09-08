@@ -1,0 +1,29 @@
+# 统一搜索服务
+* 概述
+   * [概述](gai_shu.md)
+* 快速入门
+   * 数据采集
+       * [结构化数据采集流程](chapter2_section1.md)
+           * [创建数据源](chapter2_section2.md)
+           * [创建数据模型](chapter2_section3.md)
+           * [创建定时同步任务](chapter2_section4.md)
+       * [非结构化数据采集流程](chapter2_section5.md)
+           * [更新rsyslog配置文件](chapter2_section6.md)
+           * [重启rsyslog](chapter2_section7.md)
+   * [数据预处理](chapter2_section8.md)
+       * [结构化数据](chapter2_section9.md)
+       * [非结构化数据](chapter2_section10.md)
+   * [数据分析](chapter2_section11.md)
+   * [数据检索](chapter2_section12.md)
+* 规范约束
+   * [规范约束](gui_fan_yue_shu.md)
+* 特性介绍
+   * [特性介绍概述](te_xing_jie_shao_gai_shu.md)
+   * [数据结构自由定制](chapter4_section1.md)
+   * [数据同步以及时效性](chapter4_section2.md)
+   * [数据安全性，数据授权](chapter4_section3.md)
+   * [应用之间关系型数据的快速检索](chapter4_section4.md)
+   * [大量数据场景下快速、丰富的数据检索服务](chapter4_section5.md)
+* 典型场景
+   * [典型场景](dian_xing_chang_jing.md)
+
