@@ -6,4 +6,4 @@
 *	拼音分词
 *	模糊拼音分词
 *	智能语义分词
-![](tongyisousuo-5.png)
+![](images/tongyisousuo-5.png)
